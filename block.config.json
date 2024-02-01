@@ -1,0 +1,21 @@
+{
+  "blockId": "qRbGDDnOE2a7-v51-OrEZ",
+  "name": "1Feb_B3",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/grgshiji/1Feb.git",
+    "ssh": "git@github.com:grgshiji/1Feb.git",
+    "branch": "block_1Feb_B3"
+  },
+  "parentBlockIDs": [
+    "gy3av0D_rfUaNDUJebX4n"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
