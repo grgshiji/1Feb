@@ -1,0 +1,20 @@
+{
+  "blockId": "WEQRp6h-gx8vFva5Z5SWB",
+  "name": "1Feb_B1_renamed",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/1Feb.git",
+    "ssh": "git@github.com:grgshiji/1Feb.git",
+    "branch": "block_1Feb_B1_renamed"
+  },
+  "parentBlockIDs": [
+    "gy3av0D_rfUaNDUJebX4n"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
