@@ -16,6 +16,12 @@
   "dependencies": {
     "1Feb_B1": {
       "directory": "1Feb_B1"
+    },
+    "1Feb_B2": {
+      "directory": "1Feb_B2"
+    },
+    "1Feb_B3": {
+      "directory": "1Feb_B3"
     }
   }
 }
