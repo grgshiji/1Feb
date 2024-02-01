@@ -1,0 +1,16 @@
+{
+  "name": "1Feb",
+  "type": "package",
+  "blockId": "gy3av0D_rfUaNDUJebX4n",
+  "source": {
+    "https": "https://github.com/grgshiji/1Feb.git",
+    "ssh": "git@github.com:grgshiji/1Feb.git",
+    "branch": "block_1Feb"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
