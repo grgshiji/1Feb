@@ -14,8 +14,8 @@
   ],
   "repoType": "mono",
   "dependencies": {
-    "1Feb_B1": {
-      "directory": "1Feb_B1"
+    "1Feb_B1_renamed": {
+      "directory": "1Feb_B1_renamed"
     },
     "1Feb_B2": {
       "directory": "1Feb_B2"
